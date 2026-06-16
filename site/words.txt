@@ -1,0 +1,48 @@
+The Probability of Truth
+
+We as humans have arrived at a salient moment. An intangible sensation hangs in the air, invisible, but highly anxiogenic.
+The stench of rot surrounds and overwhelms us. We search for the source in order to remove it, but find it pervasive. What is the origin of this disillusion? 
+Each and every one of us have been poisoned by our own minds. A vast toxicity has built up within the collective consciousness of humanity.
+The toxin within all of us is belief. Not religious belief, but the whole of it. The concept of certainty is fallacious. A rigid mind is a rotting mind.
+Reality, or Actuality, most probably is not deterministic. Rather, humanity has progressively unearthed information which leads to the hypothesis that our existence is probablistic.
+
+Animism, Theology, Cosmology, Elenchus, Aristotelianism, Platonism, Rationalism, Existentialism, Postmodernism, all of metaphysics has existed as a human effort to give definition to our existence.
+If reality is indeed flexible, our definitions ought to reconcile this. Each of our mental definitions exist as an aggregate of measurements, and correlations to other definitions.
+These correlations, if probablistic, should contain weights. Grass = [(green: 0.2), (plant: 0.9), ...].
+These weights, or probabilities, express the similarity of a given correlated definition to the definition which it aids in constructing.
+Grass is almost always a plant, thus this correlation would have a high weight, but it is much less frequently green. Plato's "Forms", or weights of 1, do not exist in a probablistic model of reality. 
+Rather, a probability without a known false case would be expressed aysmptotically as to not preclude undiscovered information. The preceding suggestion is enormous.
+The construction of such a map of information would be infinite, and thus impossible. This script is not a prescription for the creation of such a map, though its undertaking is not discouraged.
+Rather, the focus of this script is upon the application of the preceding suggestion upon the human consciousness individually and collectively.
+
+#2
+
+One of the major difficulties in correlating and weighing definitions lies in the unreliability of information. All human definitions are constructed from percieved information, and preexisting definitions.
+The trouble in this comes from determining the accuracy of the information we perceive. The existence we find ourselves in is not physical reality.
+Our consciousness exists within a simulation of what our bodies and prior experiences believe reality to be.
+Human existence is an amalgam of indirect measurements from biological sensors, compiled into our perceptions. Plainly, our existence is a simulation of our senses.
+However, our biological sensors, and the system they are attached to, are not perfect instrumemts. Neither is the mind decoding these measurements.
+A simulation exists to recreate the characteristics of something without wholly reprocuding it.
+Our consciousness attempts to recreate the characteristics of physical reality so that we may understand it and operate within it.
+Reality does not exist in our minds. Quite the opposite appears to be accurate. Only our perception of reality exists within our minds, but that perception need not have any likeness to it.
+
+The accuracy of a simulation compared to its source can be expressed as a ratio. An accuracy of 1 would repesent a perfect recreation, while 0 would mean there is no likeness to the source whatsoever.
+No simulation has an accuracy of 1 as it would then definitionally cease to be a simulation, and become a copy of its source. In other words, all simulations are innacurate by some amount.
+A simulacrum is a simulation of in which the replicated source is itself a simulation. A copy of a copy.
+Let us picture simulacrum as a lineage wherein a given simulation is expressed as a child of that which it intends recreate.
+The depth of a particular simulacrum is the number of simulations between it and the original source.
+We would say that the source has a "Simulacral Depth" of 0, a direct simulation of the source has a depth of 1, and so on.
+Suppose we endeavored to create a mimic of our thoughts, such that we could make them percievable to others. This is a simulation which we know as speech.
+If physical reality is the chosen source from which we derive our biological simulations, and we know how many simulations exist between it, and speech. We can then determine the simulacral depth of Speech.
+(-> = simulates) Physical Reality -> nervous sensation -> thought -> speech. x(d) = the simulacral depth of x.
+Physical Reality(d) = 0, nervous sensation(d) = 1, thought(d) = 2, speech(d) = 3. This way we would say that the simulacral depth from reality to speech is 3.
+
+"Simulacral Decay" (or definitional incest) is an expression of compounding inaccuracy of a given simulation corresponding to its depth.
+Physical reality is the intended source of our simulation, thus it would have an accuracy to itself of 1, or 100%.
+Nervous sensation is a simulation of some of the inputs from physical reality which exist around the individual. As is it a simulation, this sensation would be innacurate by some amount.
+For this example we will boldly claim that human nervous sensation simulates inputs from physical reality eighty percent accurately. The brain then recieves the results of this simulation and compiles them into thought.
+The accuracy of this thought to reality is then dependent upon, and limited by the accuracy of the nervous sensation which served to form it.
+If the sensation is eighty percent accurate to reality, the accuracy to reality of the thought simulating these sensations definitionally must be lower than eighty percent.
+If a fraction is multiplied by another fraction, the result can only be a lower fraction. This way we can say, "The greater the depth of a simulacrum, the lower its accuracy to the source."
+
+It is commonly understood that we as humans struggle to verbally articulate the concepts existing in our minds. Speech is a simulation of thought which necessitates some level of innacuracy to its source.
