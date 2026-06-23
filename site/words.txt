@@ -13,9 +13,8 @@ These weights, or probabilities, express the similarity of a given correlated de
 Grass is almost always a plant, thus this correlation would have a high weight, but it is much less frequently green. Plato's "Forms", or weights of 1, do not exist in a probablistic model of reality. 
 Rather, a probability without a known false case would be expressed aysmptotically as to not preclude undiscovered information. The preceding suggestion is enormous.
 The construction of such a map of information would be infinite, and thus impossible. This script is not a prescription for the creation of such a map, though its undertaking is not discouraged.
-Rather, the focus of this script is upon the application of the preceding suggestion upon the human consciousness individually and collectively.
 
-#2
+#2 Unreliability of information
 
 One of the major difficulties in correlating and weighing definitions lies in the unreliability of information. All human definitions are constructed from percieved information, and preexisting definitions.
 The trouble in this comes from determining the accuracy of the information we perceive. The existence we find ourselves in is not physical reality.
@@ -43,6 +42,10 @@ Nervous sensation is a simulation of some of the inputs from physical reality wh
 For this example we will boldly claim that human nervous sensation simulates inputs from physical reality eighty percent accurately. The brain then recieves the results of this simulation and compiles them into thought.
 The accuracy of this thought to reality is then dependent upon, and limited by the accuracy of the nervous sensation which served to form it.
 If the sensation is eighty percent accurate to reality, the accuracy to reality of the thought simulating these sensations definitionally must be lower than eighty percent.
-If a fraction is multiplied by another fraction, the result can only be a lower fraction. This way we can say, "The greater the depth of a simulacrum, the lower its accuracy to the source."
+If a ratio is multiplied by another ratio, the product can only be lower than factors. Thus we can say, "The greater the depth of a simulacrum, the lower its accuracy to the source."
 
-It is commonly understood that we as humans struggle to verbally articulate the concepts existing in our minds. Speech is a simulation of thought which necessitates some level of innacuracy to its source.
+#3 Construction of Probability
+
+The question then remains, "If our measurements are unreliable, how can we determine the probability of a definition?" The answer to this question is constantly evolving (as are all things), but it is defined as Science.
+For a definition's accuracy to be ascertained it must be measured. To determine the accuracy of a measurement of definition, it must be repeatable and reconcilable.
+The process of reconciliation exists as a comparison of measurements. If different measurements of the same definition are incongruent, the definition would then be less accurate.
