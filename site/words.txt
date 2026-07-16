@@ -21,11 +21,11 @@ The goal of this paper is human evolution. To bring about the death of the Boole
 
 One of the major difficulties in correlating and weighing definitions lies in the unreliability of human information.
 All human definitions are constructed from percieved information, and conceptualized against our own pre-existing definitions.
-The difficulty in this is determining the accuracy of the information we perceive against physical reality. The existence we find ourselves in is not physical reality.
+The difficulty in this is determining the accuracy of the information we perceive against Physical Reality. The existence we find ourselves in is not Physical Reality.
 Our consciousness exists within a simulation of what our bodies believe reality to be.
 Human existence is an amalgam of measurements from biological sensors, compiled into our perception. Human reality is a simulation of the senses.
 However, our biological sensors, and the system they are a part of, are not perfect instruments. A simulation exists to recreate the characteristics of something without wholly reprocuding it.
-Our consciousness attempts to recreate the characteristics of physical reality so that we may understand it and operate within it. Reality does not exist in our minds.
+Our consciousness attempts to recreate the characteristics of Physical Reality so that we may understand it and operate within it. Reality does not exist in our minds.
 Quite the opposite appears to be accurate. Only our perception of reality exists within our minds, but that perception need not have any likeness to Physical Reality.
 
 The accuracy of a simulation compared to its source can be expressed as a ratio. An accuracy of 1 would repesent a perfect recreation, while 0 would express no likeness to the source whatsoever.
@@ -35,14 +35,14 @@ Let us picture simulacrum as a lineage wherein a given simulation is expressed a
 The depth of a particular simulacrum is the number of simulations between it and the original source (Physical Reality in this case).
 We would say that the source has a "Simulacral Depth" of 0, a direct simulation of the source has a depth of 1, and so on.
 Suppose we endeavored to create a mimic of our thoughts, such that we could make them percievable to others. This is a simulation which we know as speech.
-If physical reality is the chosen source from which we derive our biological simulations, and we know how many simulations exist between it, and speech. We can then determine the simulacral depth of Speech.
+If Physical Reality is the chosen source from which we derive our biological simulations, and we know how many simulations exist between it, and speech. We can then determine the simulacral depth of Speech.
 (-> = simulates) Physical Reality -> nervous sensation -> thought -> speech. x(d) = the simulacral depth of x.
 Physical Reality(d) = 0, nervous sensation(d) = 1, thought(d) = 2, speech(d) = 3. This way we would say that the simulacral depth from reality to speech is 3.
 
 "Simulacral Decay" is an expression of compounding inaccuracy of a given simulation corresponding to its depth.
-Physical reality is the intended source of our simulation, thus it would have an accuracy to itself of 1, or 100%.
-Nervous sensation is a simulation of some of the inputs from physical reality which exist around the individual. As is it a simulation, this sensation would be innacurate by some amount.
-For this example we will boldly claim that human nervous sensation simulates inputs from Physical reality eighty percent accurately.
+Physical Reality is the intended source of our simulation, thus it would have an accuracy to itself of 1, or 100%.
+Nervous sensation is a simulation of some of the inputs from Physical Reality which exist around the individual. As is it a simulation, this sensation would be innacurate by some amount.
+For this example we will boldly claim that human nervous sensation simulates inputs from Physical Reality eighty percent accurately.
 The brain then recieves the results of this simulation and compiles them into thought.
 The accuracy of this thought to reality is then dependent upon, and limited by the accuracy of the nervous sensation which served to form it.
 If the sensation is eighty percent accurate to reality, the accuracy to reality of the thought simulating these sensations definitionally must be lower than eighty percent.
@@ -65,6 +65,7 @@ Precision is the scale, or variance of a given definition, or measurement. The m
 A definition such as "Life" has massive variation, and therefore can be difficult to precisely define. A more precise definition such as "Homo sapien" is much less multivariate, and thus has a greater accuracy.
 
 #4 Influences on Probability (Relativity)
+
 Now that we have endeavored to understand our existence as probablistic, let us explore the parameters of the probabilities which make it up.
 As it was previously stated, human definitions are made up of measurements and references to other definitions.
 The reason that precision effects the accuracy of a definition, is that measurements and definitions are relative. The outcomes of measurements are determined by the physical factors which surround them.
